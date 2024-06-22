@@ -18,5 +18,13 @@ public class App {
 	    System.out.println(" XXXXXXXXXXX");
 	    System.out.println("      XX    ");
         
+        System.out.println("Exibição de tabela abaixo:");
+	    System.out.println("ALUNO(A)   NOTA");
+	    System.out.println("=======    ====");
+	    System.out.println("TEREZA     9.5");
+	    System.out.println("MARIO       8");
+	    System.out.println("LUCAS      5.6");
+	    System.out.println("GEOVANA    9.9");
+        
     }
 }
