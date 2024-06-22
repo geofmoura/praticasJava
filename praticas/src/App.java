@@ -31,5 +31,14 @@ public class App {
         System.out.println("L");
         System.out.println("LLLLL");
 
+        /* dentro da IDE que utilizo (vscode) 
+        instalei algumas extensoes e na hora de escrever 
+        codigo, aparecem algumas coisas diferentes, como 
+        o x: dentro dos parenteses de println, procurei desabilitar
+        o que fosse necessario e nao obtive resultados por enquanto
+        
+        sei que nesta IDE há alguns problemas para Java, mas para commit
+        vscode eu achei melhor
+         */
     }
 }
