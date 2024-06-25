@@ -40,5 +40,8 @@ public class App {
         sei que nesta IDE há alguns problemas para Java, mas para commit
         vscode eu achei melhor
          */
+
+         int idade=21;
+         System.out.println("Minha idade e: "+ idade);
     }
 }
