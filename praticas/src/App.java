@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Olá, aqui está as minhas primeiras práticas em Java");
+        System.out.println("Ola, aqui esta as minhas primeiras praticas em Java");
 
         System.out.println("XXXXXX");
         System.out.println("X    X");
@@ -18,7 +18,7 @@ public class App {
 	    System.out.println(" XXXXXXXXXXX");
 	    System.out.println("      XX    ");
         
-        System.out.println("Exibição de tabela abaixo:");
+        System.out.println("Exibicao de tabela abaixo:");
 	    System.out.println("ALUNO(A)   NOTA");
 	    System.out.println("=======    ====");
 	    System.out.println("TEREZA     9.5");
@@ -43,5 +43,9 @@ public class App {
 
          int idade=21;
          System.out.println("Minha idade e: "+ idade);
+
+         float dinheiro=1.99f;
+         System.out.println("So tenho R$"+ dinheiro +" na minha carteira");
+
     }
 }
