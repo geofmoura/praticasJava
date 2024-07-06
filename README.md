@@ -1,2 +1,2 @@
 # Primeiras práticas me Java
-### Imprimindo mensagens na tela utilizando println.
+### Aqui deixarei todas as minhas praticas em Java.
