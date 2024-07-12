@@ -48,6 +48,13 @@ public class Entrada {
          System.out.println("Minha idade e: "+ idade);
 
          float dinheiro=1.99f;
+         float preco;
          System.out.println("So tenho R$"+ dinheiro +" na minha carteira");
+
+        System.out.println("Quanto custa algo em uma loja de R$ 1,99? ");
+             preco = entrada.nextFloat();
+ 
+        System.out.println("Hã? " + preco + "?");
+
     }
 }
